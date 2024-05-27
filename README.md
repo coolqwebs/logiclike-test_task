@@ -1,6 +1,6 @@
 # Test task for LogicLike
 
-Project is bootstraped using `vite`.
+Project is bootstraped using [`vite`](https://vitejs.dev/).
 
 Used tech:
 
